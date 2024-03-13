@@ -55,18 +55,24 @@ def main():
                         if time == simulaJogo(matchUps[0], matchUps[1]):
                             print('Você ganhou!!!')
                             jogador.saldo += 2*bet
+                            matchUps[0].gols = 0
+                            matchUps[1].gols = 0
 
                     elif escolha == 2:
                         time = input('Resultado: ')
                         if time == simulaJogo(matchUps[2], matchUps[3]):
                             print('Você ganhou!!!')
                             jogador.saldo += 2*bet
+                            matchUps[2].gols = 0
+                            matchUps[3].gols = 0
 
                     else:
                         time = input('Resultado: ')
                         if time == simulaJogo(matchUps[4], matchUps[5]):
                             print('Você ganhou!!!')
                             jogador.saldo += 2*bet
+                            matchUps[4].gols = 0
+                            matchUps[5].gols = 0
                 
                 else:
                     print('Você não possui esse valor em seu saldo.')
