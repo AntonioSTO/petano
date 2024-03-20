@@ -35,7 +35,7 @@ Para realizar o teste do projeto você deverá ter instaladas as seguintes tecno
 
 ## ⚙️ Como baixar e rodar o projeto
 
-Caso você tenha Git instalado no seu computador
+<strong> Caso você tenha Git instalado no seu computador </strong>
 
 1. Clone o repositório, pelo prompt de comando, para sua máquina local com
    ```
@@ -45,7 +45,7 @@ Caso você tenha Git instalado no seu computador
    ```
    python main.py
    ```
-(Caso prefira, você também pode rodar a aplicação pela sua IDE de escolha, abrindo a pasta e executando diretamente pela interface da IDE.)
+  (Caso prefira, você também pode rodar a aplicação pela sua IDE de escolha, abrindo a pasta e executando diretamente pela interface da IDE.)
 
 
 3. Após executado o programa, utilize as instruções numéricas pelo cmd para navegar pelas opções de comando.
@@ -53,7 +53,20 @@ Caso você tenha Git instalado no seu computador
 
 4. Divirta-se!
 
-Certifique-se de fornecer exemplos de comandos ou scripts necessários para executar o projeto corretamente.
+<strong> Caso você NÃO tenha Git instalado no seu computador </strong>
+
+1. Assim que o link do repositório abrir, clique no botão verde escrito <>Code;
+2. Em seguida clique em "Download ZIP"
+3. Extraia os arquivos da sua pasta compactada
+4. Abra a pasta clonada no cmd e execute o comando
+   ```
+   python main.py
+   ```
+  (Caso prefira, você também pode rodar a aplicação pela sua IDE de escolha, abrindo a pasta e executando diretamente pela interface da IDE.)
+5. Após executado o programa, utilize as instruções numéricas pelo cmd para navegar pelas opções de comando.
+
+
+6. Divirta-se!
 
 ## 🤝 Como Contribuir
 
