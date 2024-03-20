@@ -41,11 +41,11 @@ Caso você tenha Git instalado no seu computador
    ```
    git clone https://github.com/AntonioSTO/petano
    ```
-2.1. Abra a pasta clonada no cmd e execute o comando
+2. Abra a pasta clonada no cmd e execute o comando
    ```
    python main.py
    ```
-2.2. Caso prefira, você também pode rodar a aplicação pela sua IDE de escolha, abrindo a pasta e executando diretamente pela interface da IDE.
+(Caso prefira, você também pode rodar a aplicação pela sua IDE de escolha, abrindo a pasta e executando diretamente pela interface da IDE.)
 
 
 3. Após executado o programa, utilize as instruções numéricas pelo cmd para navegar pelas opções de comando.
