@@ -63,6 +63,7 @@ Para realizar o teste do projeto você deverá ter instaladas as seguintes tecno
    python main.py
    ```
   (Caso prefira, você também pode rodar a aplicação pela sua IDE de escolha, abrindo a pasta e executando diretamente pela interface da IDE.)
+  
 5. Após executado o programa, utilize as instruções numéricas pelo cmd para navegar pelas opções de comando.
 
 
