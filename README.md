@@ -47,7 +47,10 @@ Caso você tenha Git instalado no seu computador
    ```
 2.2. Caso prefira, você também pode rodar a aplicação pela sua IDE de escolha, abrindo a pasta e executando diretamente pela interface da IDE.
 
+
 3. Após executado o programa, utilize as instruções numéricas pelo cmd para navegar pelas opções de comando.
+
+
 4. Divirta-se!
 
 Certifique-se de fornecer exemplos de comandos ou scripts necessários para executar o projeto corretamente.
