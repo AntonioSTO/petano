@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <p>Um repositório incrível com um projeto espetacular! 🎉</p>
+  <p>Um modelo-base para seu projeto final da Pro_gramming 2024! 🎉</p>
   <p>Aqui você encontrará informações sobre o projeto, tecnologias utilizadas, instruções para configurar o ambiente de desenvolvimento e muito mais.</p>
   <p>Explore, colabore e divirta-se! 😄</p>
 </div>
@@ -22,27 +22,33 @@
 
 ## 🔭 Visão Geral
 
-Nesta seção, você pode fornecer uma visão geral do projeto, explicando o que ele faz, seus principais recursos e funcionalidades. Você também pode incluir capturas de tela, gifs animados ou até mesmo um vídeo para demonstrar o projeto em ação.
+O projeto a seguir simula (dada as proporções) a estrutura de um site de apostas esportivas, com as possibilidades de operações de conta, como saques, depósitos e apostas direcionadas.
 
 ## 💻 Tecnologias
 
-- Tecnologia 1
-- Tecnologia 2
+Para realizar o teste do projeto você deverá ter instaladas as seguintes tecnologias:
+
+- Python3
+- PyGame
 - Tecnologia 3
 - ...
 
-Descreva as tecnologias utilizadas no projeto e forneça links para as respectivas documentações ou sites oficiais.
+## ⚙️ Como baixar e rodar o projeto
 
-## ⚙️ Configuração do Ambiente
+Caso você tenha Git instalado no seu computador
 
-Forneça instruções claras e detalhadas sobre como configurar o ambiente de desenvolvimento localmente. Isso pode incluir:
+1. Clone o repositório, pelo prompt de comando, para sua máquina local com
+   ```
+   git clone https://github.com/AntonioSTO/petano
+   ```
+2.1. Abra a pasta clonada no cmd e execute o comando
+   ```
+   python main.py
+   ```
+2.2. Caso prefira, você também pode rodar a aplicação pela sua IDE de escolha, abrindo a pasta e executando diretamente pela interface da IDE.
 
-- Pré-requisitos
-- Instalação de dependências
-- Configuração do banco de dados
-- Configuração de variáveis de ambiente
-- Execução de migrações ou scripts de inicialização
-- ...
+3. Após executado o programa, utilize as instruções numéricas pelo cmd para navegar pelas opções de comando.
+4. Divirta-se!
 
 Certifique-se de fornecer exemplos de comandos ou scripts necessários para executar o projeto corretamente.
 
