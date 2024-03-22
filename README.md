@@ -94,6 +94,6 @@ Se você deseja contribuir para o projeto, siga estas etapas:
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a MIT License. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações sobre os termos de licenciamento.
+Este projeto está licenciado sob a MIT License. Consulte o arquivo [LICENSE](LICENSE.txt) para obter mais informações sobre os termos de licenciamento.
 
 ---
