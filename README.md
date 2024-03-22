@@ -97,5 +97,3 @@ Se você deseja contribuir para o projeto, siga estas etapas:
 Este projeto está licenciado sob a [Nome da Licença]. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações sobre os termos de licenciamento.
 
 ---
-
-Aproveite o projeto e fique à vontade para personalizar este README de acordo com as necessidades do seu repositório. Divirta-se codificando! 🎉😄
