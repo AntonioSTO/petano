@@ -16,7 +16,7 @@
 
 - [Visão Geral](#visão-geral)
 - [Tecnologias](#tecnologias)
-- [Configuração do Ambiente](#configuração-do-ambiente)
+- [Como baixar e rodar o projeto](#como-baixar-e-rodar-o-projeto)
 - [Como Contribuir](#como-contribuir)
 - [Licença](#licença)
 
