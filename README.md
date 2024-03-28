@@ -17,6 +17,7 @@
 - [Visão Geral](#visão-geral)
 - [Tecnologias](#tecnologias)
 - [Como baixar e rodar o projeto](#como-baixar-e-rodar-o-projeto)
+- [Vídeo-Exemplo](#video)
 - [Como Contribuir](#como-contribuir)
 - [Licença](#licença)
 
@@ -68,6 +69,14 @@ Para realizar o teste do projeto você deverá ter instaladas as seguintes tecno
 
 
 6. Divirta-se!
+
+## 🎥 Vídeo-Exemplo
+
+
+
+https://github.com/AntonioSTO/petano/assets/116594916/c2000079-8deb-44ef-9359-8d679130d961
+
+
 
 ## 🤝 Como Contribuir
 
