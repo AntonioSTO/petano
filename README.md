@@ -30,9 +30,7 @@ O projeto a seguir simula (dada as proporções) a estrutura de um site de apost
 Para realizar o teste do projeto você deverá ter instaladas as seguintes tecnologias:
 
 - Python3
-- PyGame
-- Tecnologia 3
-- ...
+- Uma IDE de sua escolha (ex.: VScode, Pycharm, etc.)
 
 ## ⚙️ Como baixar e rodar o projeto
 
