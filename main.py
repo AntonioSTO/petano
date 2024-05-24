@@ -43,36 +43,41 @@ def main():
                     jogador.saldo -= bet
 
                     print('Qual jogo deseja apostar?\n' \
-                        f'1. {matchUps[0].nome} x {matchUps[1].nome}\n' \
-                        f'2. {matchUps[2].nome} x {matchUps[3].nome}\n' \
-                        f'3. {matchUps[4].nome} x {matchUps[5].nome}\n')
+                        f'1. {matchUps[0].nome.capitalize()} x {matchUps[1].nome.capitalize()}\n' \
+                        f'2. {matchUps[2].nome.capitalize()} x {matchUps[3].nome.capitalize()}\n' \
+                        f'3. {matchUps[4].nome.capitalize()} x {matchUps[5].nome.capitalize()}\n')
                     
                     escolha = int(input())
 
-
                     if escolha == 1:
-                        time = input('Resultado: ')
+                        time = input('Resultado: ').lower()
                         if time == simulaJogo(matchUps[0], matchUps[1]):
                             print('Você ganhou!!!')
                             jogador.saldo += 2*bet
                             matchUps[0].gols = 0
                             matchUps[1].gols = 0
+                        else:
+                            print("Você perdeu!")
 
                     elif escolha == 2:
-                        time = input('Resultado: ')
+                        time = input('Resultado: ').lower()
                         if time == simulaJogo(matchUps[2], matchUps[3]):
                             print('Você ganhou!!!')
                             jogador.saldo += 2*bet
                             matchUps[2].gols = 0
                             matchUps[3].gols = 0
+                        else:
+                            print("Você perdeu!")
 
                     else:
-                        time = input('Resultado: ')
+                        time = input('Resultado: ').lower()
                         if time == simulaJogo(matchUps[4], matchUps[5]):
                             print('Você ganhou!!!')
                             jogador.saldo += 2*bet
                             matchUps[4].gols = 0
                             matchUps[5].gols = 0
+                        else:
+                            print("Você perdeu!")
                 
                 else:
                     print('Você não possui esse valor em seu saldo.')
