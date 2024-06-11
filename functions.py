@@ -12,7 +12,7 @@ def simulaJogo(time1, time2):
     for j in range(golsTime2):
         time2.scoringChance(time1)
 
-    print(f'{time1.nome} {time1.gols} x {time2.gols} {time2.nome}')
+    print(f'{time1.nome.capitalize()} {time1.gols} x {time2.gols} {time2.nome.capitalize()}')
 
     if time1.gols > time2.gols:
         return time1.nome
@@ -20,4 +20,3 @@ def simulaJogo(time1, time2):
         return 'Empate'
     else:
         return time2.nome
-    

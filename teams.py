@@ -16,11 +16,11 @@ class Team:
             self.gols += 1
 
 
-Fluminense = Team(78,84, 'Fluminense')
-Vasco = Team(75,79, 'Vasco')
-Botafogo = Team(77,77, 'Botafogo')
-Flamengo = Team(78,82, 'Flamengo')
-Cruzeiro = Team(74,74, 'Cruzeiro')
-Palmeiras = Team(80,84, 'Palmeiras')
+Fluminense = Team(78,84, 'fluminense')
+Vasco = Team(75,79, 'vasco')
+Botafogo = Team(77,77, 'botafogo')
+Flamengo = Team(78,82, 'flamengo')
+Cruzeiro = Team(74,74, 'cruzeiro')
+Palmeiras = Team(80,84, 'palmeiras')
 
 times = [Fluminense, Vasco, Botafogo, Flamengo, Cruzeiro, Palmeiras]
